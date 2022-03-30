@@ -5,7 +5,8 @@
 ```yaml
 Bio:
     I am Syed Saarib Rasheed,
-    Majoring in Artificial Intelligence and Data Science at Methodist College of Engineering and Technology.
+    Majoring in Artificial Intelligence and Data Science 
+    Student at Methodist College of Engineering And Technology
 ```
 
 <br>
