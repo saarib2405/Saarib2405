@@ -1,4 +1,4 @@
-<h1  align="center">                     Hi Developers <img src=https://media1.tenor.com/images/972357cfdfdb108f207a4eff95bfda7f/tenor.gif?itemid=11046092
+<h1  align="center">   Hi Developers <img src="https://media1.tenor.com/images/972357cfdfdb108f207a4eff95bfda7f/tenor.gif?itemid=11046092" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 <hr/>
 
