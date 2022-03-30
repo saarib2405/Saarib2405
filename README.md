@@ -3,7 +3,7 @@
 <hr/>
 
 ```yaml
-About me:
+    About me:
     I am Syed Saarib Rasheed,
     Majoring in Artificial Intelligence and Data Science 
     Student at Methodist College of Engineering And Technology
