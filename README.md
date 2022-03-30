@@ -22,7 +22,6 @@ Bio:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saarib2405/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  
-  <a href="mailto:saarib2405@gmail.com><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+    <a href="mailto:saarib2405@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
