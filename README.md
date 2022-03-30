@@ -15,7 +15,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 <h2> contact info: </h2>
