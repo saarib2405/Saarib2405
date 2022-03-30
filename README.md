@@ -1,11 +1,11 @@
-<h1  align="center">   Hi Developers <img src=
+<h1  align="center">       Hi Developers <img src=
 <img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 <hr/>
 
 ```yaml
 Bio:
     I am Syed Saarib Rasheed,
-    majoring in Artificial Intelligence and Data Science at Methodist College of Engineering and Technology.
+    Majoring in Artificial Intelligence and Data Science at Methodist College of Engineering and Technology.
 ```
 
 <br>
