@@ -4,10 +4,7 @@
 
 ```yaml
 Bio:
-    Name: "Gursimar Singh"
-    Role: "Software Engineer Intern at Kickback Space Inc."
-    Education: "Computer Science Undergradute Student"
-    Location: "Hyderabad, Telangana, India"
+    I am Syed Saarib Rasheed,majoring in Artificial Intelligence and Data Science at Methodist College of Engineering and Technology.
 ```
 
 <br>
