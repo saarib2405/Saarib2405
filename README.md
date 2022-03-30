@@ -1,5 +1,5 @@
 <h1  align="center">   Hi Developers!! <img src="https://media1.tenor.com/images/972357cfdfdb108f207a4eff95bfda7f/tenor.gif?itemid=11046092" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
+<img width="40%" align="right"   src="https://th.bing.com/th/id/OIP.mnMl6DmQ9LCSVe3EL-0MygAAAA?pid=ImgDet&rs=1" >
 <hr/>
 
 ```yaml
