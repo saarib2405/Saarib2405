@@ -27,6 +27,7 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
 <p align="center">
   <a href="https://www.linkedin.com/in/saarib2405/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
     <a href="mailto:saarib2405@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+   <a href="https://medium.com/@saarib2405"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 <a href="https://www.instagram.com/ssr_2405/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/SyedSaarib" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
