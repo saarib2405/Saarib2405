@@ -50,6 +50,6 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
   <a href="https://www.linkedin.com/in/saarib2405/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
     <a href="mailto:saarib2405@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
    <a href="https://medium.com/@saarib2405"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-<a href="https://www.instagram.com/ssr_2405/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_icon.png&psig=AOvVaw1sy86l5pO1D6jeOsoz1Eco&ust=1680166954652000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDTtObjgP4CFQAAAAAdAAAAABAE" alt="Instagram"></a>
+<a href="https://www.instagram.com/ssr_2405/" target="_blank"><img src="https://icons8.com/icon/32323/instagram-new" alt="Instagram"></a>
 <a href="https://twitter.com/SyedSaarib" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter"></a>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
