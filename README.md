@@ -47,7 +47,7 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
 <h2> Contact info: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saarib2405/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>  height="60" width="60" </a>
+  <a href="https://www.linkedin.com/in/saarib2405/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png"  height="60" width="60"  alt="linkedin"/> </a>
     <a href="mailto:saarib2405@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
    <a href="https://medium.com/@saarib2405"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/>  height="60" width="60"  </a>
 <a href="https://instagram.com/__random.__.clicks__?igshid=YmMyMTA2M2Y=" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__random.__.clicks__" height="60" width="60" /></a>
