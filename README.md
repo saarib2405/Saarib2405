@@ -50,6 +50,6 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
   <a href="https://www.linkedin.com/in/saarib2405/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
     <a href="mailto:saarib2405@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
    <a href="https://medium.com/@saarib2405"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-<a href="https://www.instagram.com/ssr_2405/" target="_blank"><img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463" alt="Instagram"></a>
+<a href="https://www.instagram.com/ssr_2405/" target="_blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20221018%2Fourmid%2Fpngtree-instagram-icon-png-image_6315974.png&tbnid=mUtUVviCWq9uMM&vet=12ahUKEwiK5J3l44D-AhWfznMBHe5pACwQMygBegUIARCLAQ..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram&docid=5yVKiK8lM_YwfM&w=360&h=360&q=instagram%20icon%20.png&ved=2ahUKEwiK5J3l44D-AhWfznMBHe5pACwQMygBegUIARCLAQ" alt="Instagram"></a>
 <a href="https://twitter.com/SyedSaarib" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter"></a>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
