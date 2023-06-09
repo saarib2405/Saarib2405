@@ -44,6 +44,10 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+<h3 align="left">Data Visualization:</h3>
+
+<h2 align="left"> <img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" width="140px" height="60px"></h2>
+
 <h2> Contact info: </h2>
 
 <p align="center">
