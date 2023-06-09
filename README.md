@@ -46,7 +46,7 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
 
 <h3 align="left">Data Visualization:</h3>
 
-<h2 align="left"> <img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" width="80px" height="50px"></h2>
+<h2 align="left"> <img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" width="80px" height="40px"></h2>
 
 <h2> Contact info: </h2>
 
