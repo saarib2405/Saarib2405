@@ -17,10 +17,10 @@ Exerting myself to thrive in AI&ML,Web Development,Programming,etc.
 <hr/>
 <h2> Technical Skills 🛠 </h2>
 
-![C](https://img.shields.io/badge/-C-000?&logo=C) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
