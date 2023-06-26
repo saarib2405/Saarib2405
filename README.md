@@ -3,7 +3,7 @@
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
 <p align="center">
-  <img align="right" width="40%" src="https://example.com/your-image-url.jpg">
+  <img align="right" width="40%" src="https://th.bing.com/th/id/OIP.mnMl6DmQ9LCSVe3EL-0MygAAAA?pid=ImgDet&rs=1">
 </p>
 
 <hr>
@@ -52,6 +52,8 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px">
 </span>
+
+
 
 ## Contact Info
 
