@@ -17,30 +17,36 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 ## Technical Skills 🛠
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
 
 ### Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
 ### Data Science
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+
 
 ### Cloud Platforms
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
+
 
 ### Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-<img src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" alt="Tableau" width="80px" height="40px">
+![Canva](https://img.icons8.com/color/48/000000/canva.png)
+![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+
 
 <hr>
 
