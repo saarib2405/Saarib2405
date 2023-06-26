@@ -21,31 +21,26 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 
 ### Operating Systems
 ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
-![macOS](https://img.icons8.com/officel/48/000000/mac-logo.png)
+
 
 ### Web Development
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/officel/48/000000/react.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
 ### Data Science
 ![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
 ![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![SciPy](https://img.icons8.com/color/48/000000/scipy.png)
-![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+
 
 ### Cloud Platforms
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+
 
 ### Tools
 ![Canva](https://img.icons8.com/color/48/000000/canva.png)
