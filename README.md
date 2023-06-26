@@ -3,7 +3,7 @@
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
 <p align="center">
-  <img align="right" width="40%" src="https://example.com/animated-gif.gif">
+  <img align="right" width="40%" src="https://th.bing.com/th/id/OIP.mnMl6DmQ9LCSVe3EL-0MygAAAA?pid=ImgDet&rs=1">
 </p>
 
 <hr>
@@ -13,9 +13,6 @@
 I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data Science at Methodist College of Engineering And Technology. I am passionate about AI&ML, Web Development, Programming, and more.
 
 <hr>
-
-<!-- Rest of the code remains unchanged -->
-
 
 ## Technical Skills 🛠
 
