@@ -18,39 +18,39 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 
 ### Programming Languages
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48px">
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="52px">
 </span>
 
 ### Operating Systems
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="48px">
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="52px">
 </span>
 
 ### Web Development
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="48px">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="52px">
 </span>
 
 ### Data Science
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="48px">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="52px">
 </span>
 
 ### Cloud Platforms
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="52px">
 
 ### Tools
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/canva.png" width="48px">
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px">
 </span>
 
 
