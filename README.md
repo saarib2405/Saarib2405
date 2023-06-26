@@ -52,7 +52,7 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
   <a href="https://medium.com/@saarib2405"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://instagram.com/__random.__.clicks__?igshid=YmMyMTA2M2Y=" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="65" width="65" alt="Instagram"></a>
   <a href="https://twitter.com/SyedSaarib" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://linktr.ee/saarib" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/link-tree.png" alt="Linktree"></a>
+  <a href="https://linktr.ee/saarib" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linktree.png" alt="Linktree"></a>
 </p>
 
 <hr>
