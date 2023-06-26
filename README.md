@@ -47,4 +47,9 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 ## Contact Info
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syedsaaribrasheed/"><img align="center" src="https
+  <a href="https://www.linkedin.com/in/syedsaaribrasheed/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:saarib2405@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://medium.com/@saarib2405"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://instagram.com/__random.__.clicks__?igshid=YmMyMTA2M2Y=" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="65" width="65" alt="Instagram"></a>
+  <a href="https://twitter.com/SyedSaarib" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter"></a>
+</p>
