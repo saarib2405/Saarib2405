@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data Science at Methodist College of Engineering And Technology. I am passionate about AI&ML, Web Development, Programming, and more.
+I am Syed Saarib Rasheed, Majoring in Artificial Intelligence and Data Science at Methodist College of Engineering And Technology. I am passionate about AI&ML, Web Development, Programming, and more.
 
 <hr>
 
