@@ -18,52 +18,59 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 
 <details>
 <summary>Programming Languages</summary>
-
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/python.png"> Python</li>
+  <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> Java</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-programming.png"> C</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> C++</li>
+</ul>
 </details>
 
 <details>
 <summary>Operating Systems</summary>
-
-- ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) Ubuntu
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) Windows
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"> Ubuntu</li>
+  <li><img src="https://img.icons8.com/color/48/000000/linux.png"> Linux</li>
+  <li><img src="https://img.icons8.com/color/48/000000/windows-10.png"> Windows</li>
+</ul>
 </details>
 
 <details>
 <summary>Web Development</summary>
-
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> HTML5</li>
+  <li><img src="https://img.icons8.com/color/48/000000/css3.png"> CSS3</li>
+</ul>
 </details>
 
 <details>
 <summary>Data Science</summary>
-
-- ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) NumPy
-- ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/numpy.png"> NumPy</li>
+  <li><img src="https://img.icons8.com/color/48/000000/pandas.png"> Pandas</li>
+</ul>
 </details>
 
 <details>
 <summary>Database</summary>
-
-- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) Oracle
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"> Oracle</li>
+</ul>
 </details>
 
 <details>
 <summary>Cloud Platforms</summary>
-
-- ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) Google Cloud
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/google-cloud.png"> Google Cloud</li>
+</ul>
 </details>
 
 <details>
 <summary>Tools</summary>
-
-- ![Canva](https://img.icons8.com/color/48/000000/canva.png) Canva
-- ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/canva.png"> Canva</li>
+  <li><img src="https://img.icons8.com/color/48/000000/tableau-software.png"> Tableau</li>
+</ul>
 </details>
 
 <hr>
