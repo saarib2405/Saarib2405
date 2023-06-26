@@ -17,36 +17,31 @@ I am Syed Saarib Rasheed, currently majoring in Artificial Intelligence and Data
 ## Technical Skills 🛠
 
 ### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48px">
 
 ### Operating Systems
-![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)
-![Linux](https://img.icons8.com/color/48/000000/linux.png)
-![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
-
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/linux.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/windows-10.png" width="48px">
 
 ### Web Development
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48px">
 
 ### Data Science
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-
+<img src="https://img.icons8.com/color/48/000000/numpy.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/pandas.png" width="48px">
 
 ### Cloud Platforms
-![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
-
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="48px">
 
 ### Tools
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
-![Canva](https://img.icons8.com/color/48/000000/canva.png)
-![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
-
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/canva.png" width="48px">
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="48px">
 
 
 ## Contact Info
