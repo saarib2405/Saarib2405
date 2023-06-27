@@ -51,6 +51,7 @@ I am Syed Saarib Rasheed, Majoring in Artificial Intelligence and Data Science a
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="52px">
 </span>
 
 
