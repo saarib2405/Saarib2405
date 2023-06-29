@@ -1,4 +1,4 @@
-<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="80px"></h1>
+<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="60px"></h1>
 
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
