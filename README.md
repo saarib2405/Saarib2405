@@ -1,5 +1,4 @@
-<h1 align="center">Hi Developers!! <img src="https://media1.tenor.com/images/972357cfdfdb108f207a4eff95bfda7f/tenor.gif?itemid=11046092" width="30px"><</img>/h1>
-
+<h1 align="center">Hi Developers!! <img src="https://media1.tenor.com/images/972357cfdfdb108f207a4eff95bfda7f/tenor.gif?itemid=11046092" width="30px"></h1>
 
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
@@ -54,8 +53,6 @@ I am Syed Saarib Rasheed, Majoring in Artificial Intelligence and Data Science a
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="52px">
 </span>
-
-
 
 ## Contact Info
 
