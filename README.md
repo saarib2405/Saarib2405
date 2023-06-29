@@ -1,4 +1,4 @@
-<h1 align="center">Hi Developers!! <img src="https://s3.central-1.russmedia.com/vertical-ro-f646bd5a/large/20190918/0953/9c68b5aa5de79a395136e868c1bfd095.jpg" width="30px"></h1>
+<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="30px"></h1>
 
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
