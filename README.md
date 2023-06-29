@@ -3,7 +3,7 @@
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
 <p align="center">
-  <img align="right" width="40%" src="https://th.bing.com/th/id/OIP.mnMl6DmQ9LCSVe3EL-0MygAAAA?pid=ImgDet&rs=1">
+  <img align="right" width="40%" src="https://s3.central-1.russmedia.com/vertical-ro-f646bd5a/large/20190918/0953/9c68b5aa5de79a395136e868c1bfd095.jpg">
 </p>
 
 <hr>
