@@ -24,13 +24,6 @@ I am Syed Saarib Rasheed, Majoring in Artificial Intelligence and Data Science a
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="52px">
 </span>
 
-### Operating Systems
-<span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" width="52px">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="52px">
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="52px">
-</span>
-
 ### Web Development
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px">
