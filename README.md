@@ -34,6 +34,7 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET, pursuing Bachelor of Engine
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="52px">
+  <img src="https://www.r-project.org/logo/Rlogo.png" width="52px" alt="R Programming">
 </span>
 
 ### Cloud Platforms
