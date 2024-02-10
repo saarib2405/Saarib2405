@@ -2,15 +2,12 @@
 
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
-<p align="center">
-  <img align="right" width="40%" src="https://s3.central-1.russmedia.com/vertical-ro-f646bd5a/large/20190918/0953/9c68b5aa5de79a395136e868c1bfd095.jpg">
-</p>
 
 <hr>
 
 ## About Me
 
-I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET, pursuing Bachelor of Engineering in Artificial Intelligence & Data Science at Methodist College of Engineering and Technology. I am passionate about AI&ML, Web Development, Programming, and more.
+I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET, pursuing Bachelors of Engineering in Artificial Intelligence & Data Science at Methodist College of Engineering and Technology. I am passionate about AI&ML, Web Development, Programming, and more.
 
 <hr>
 
