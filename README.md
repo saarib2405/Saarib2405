@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET, pursuing Bachelors of Engineering in Artificial Intelligence & Data Science at Methodist College of Engineering and Technology. I am passionate about AI&ML, Web Development, Programming, and more.
+I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelligence & Data Science @ Methodist College of Engineering and Technology | ML Enthusiast | Web Development | Techie 🧑‍💻
 
 <hr>
 
