@@ -31,8 +31,8 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="52px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52px" alt="scikit-learn">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="52px" alt="matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="54px" alt="scikit-learn">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="54px" alt="matplotlib">
 </span>
 
 ### Database
