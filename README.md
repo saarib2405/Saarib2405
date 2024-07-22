@@ -39,7 +39,7 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
 ### Database
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px" alt="Oracle">
-  <img src="https://img.icons8.com/color/48/000000/sqlite.png" width="54px" alt="SQLite">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SQLite_logo.svg/1024px-SQLite_logo.svg.png" width="54px" alt="SQLite">
 </span>
 
 ### Cloud Platforms
