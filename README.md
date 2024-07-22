@@ -27,7 +27,7 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="52px">
 </span>
 
-### Data Science
+### Machine Learning
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" height="48px" alt="numpy">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" height="48px" alt="pandas">
