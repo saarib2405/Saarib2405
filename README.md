@@ -2,7 +2,6 @@
 
 <h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
 
-
 <hr>
 
 ## About Me
@@ -32,13 +31,14 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="52px">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="52px">
 </span>
 
 ### Database
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px">
 </span>
-
 
 ### Cloud Platforms
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="52px">
