@@ -36,11 +36,12 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
 </span>
 
 
-
 ### Database
 <span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="54px" alt="Oracle">
+  <img src="https://img.icons8.com/color/48/000000/sqlite.png" width="54px" alt="SQLite">
 </span>
+
 
 ### Cloud Platforms
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="52px">
@@ -58,8 +59,9 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
   <a href="https://www.linkedin.com/in/saarib2405/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:saarib2405@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://medium.com/@saarib2405"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://twitter.com/saarib2405" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://x.com/saarib2405" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/X_logo_%282023%29.svg" alt="X" title="X" width="96" height="96"></a>
   <a href="https://linktr.ee/saarib2405" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linktree.png" alt="Linktree" height="65" width="65"></a>
 </p>
+
 
 <hr>
