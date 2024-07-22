@@ -21,12 +21,6 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="52px"> 
 </span>
 
-### Web Development
-<span style="display: inline-block;">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="52px">
-</span>
-
 ### Machine Learning
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" height="48px" alt="numpy">
@@ -37,6 +31,11 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
   <img src="https://community.intersystems.com/sites/default/files/inline/images/sticker-2048w.png" height="48px" alt="Hugging Face">
 </span>
 
+### Web Development
+<span style="display: inline-block;">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="52px">
+</span>
 
 ### Database
 <span style="display: inline-block;">
