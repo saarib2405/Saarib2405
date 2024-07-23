@@ -49,8 +49,8 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
 ### Tools
 <span style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="52px">
-  <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="52px">
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px">
 </span>
 
 ## Contact Info
