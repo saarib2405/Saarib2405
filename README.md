@@ -27,11 +27,10 @@ I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelli
   <img src="https://img.icons8.com/color/48/000000/pandas.png" height="48px" alt="pandas">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48px" alt="scikit-learn">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48px" alt="matplotlib">
-  <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" height="48px" alt="scipy">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="48px" alt="scipy">
   <img src="https://img.icons8.com/color/48/000000/opencv.png" height="48px" alt="OpenCV">
   <img src="https://community.intersystems.com/sites/default/files/inline/images/sticker-2048w.png" height="48px" alt="Hugging Face">
 </span>
-
 
 ### Web Development
 <span style="display: inline-block;">
