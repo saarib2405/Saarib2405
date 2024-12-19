@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Syed Saarib Rasheed, Co-Lead @ Google DSC MCET | B.E. in Artificial Intelligence & Data Science @ Methodist College of Engineering and Technology | ML Enthusiast | Web Development | Techie 🧑‍💻
+I am Syed Saarib Rasheed, Machine Learning Practitioner | Generative AI Enthusiast | Web3 Advocate | Tech Mentor | Technical Content Writer | Community Builder
 
 <hr>
 
