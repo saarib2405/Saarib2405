@@ -1,108 +1,28 @@
-<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="50px"></h1>
+<h1 align="center">Hi 👋, I'm Syed Saarib Rasheed</h1>
+<h3 align="center">Building with AI | ML Practitioner | GenAI Enthusiast | Researcher</h3>
 
-<h3 align="center">An AI&ML (Artificial Intelligence and Machine Learning) Fanatic</h3>
+- 🔭 I’m currently working on **LLMs in Mental Health**
 
-<hr>
+- 🌱 I’m currently learning **Machine Learning, Deep Learning & GenAI.**
 
-## About Me
+- 👯 I’m looking to collaborate on **ML Research**
 
-I am Syed Saarib Rasheed, Machine Learning Practitioner | Generative AI Enthusiast | Web3 Advocate | Tech Mentor | Technical Content Writer | Community Builder
+- 💬 Ask me about **Machine Learning and GenAI**
 
-<hr>
+- 📫 How to reach me **saarib2405@gmail.com**
 
-## Technical Skills 🛠
-
-### Programming Languages
-<span style="display: inline-block;">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="52px" alt="Python">
-  </a>
-  <a href="https://www.r-project.org" target="_blank">
-    <img src="https://www.r-project.org/logo/Rlogo.png" width="52px" alt="R Programming">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="52px" alt="C Programming">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="52px" alt="C++ Programming">
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="52px" alt="Java">
-  </a>
-</span>
-
-### Machine Learning
-<span style="display: inline-block;">
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/numpy.png" height="48px" alt="numpy">
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" height="48px" alt="pandas">
-  </a>
-  <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48px" alt="scikit-learn">
-  </a>
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48px" alt="matplotlib">
-  </a>
-  <a href="https://www.scipy.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="48px" alt="scipy">
-  </a>
-  <a href="https://opencv.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/opencv.png" height="48px" alt="OpenCV">
-  </a>
-  <a href="https://huggingface.co" target="_blank">
-    <img src="https://community.intersystems.com/sites/default/files/inline/images/sticker-2048w.png" height="48px" alt="Hugging Face">
-  </a>
-</span>
-
-### Web Development
-<span style="display: inline-block;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="52px" alt="CSS">
-  </a>
-</span>
-
-### Database
-<span style="display: inline-block;">
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="60px" height="70px" alt="Oracle">
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://logospng.org/download/sqlite/sqlite-2048.png" width="60px" height="70px" alt="SQLite">
-  </a>
-</span>
-
-### Cloud Platforms
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="52px" alt="Google Cloud">
-</a>
-
-### Tools
-<span style="display: inline-block;">
-  <a href="https://www.tableau.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="52px" alt="Tableau">
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="52px" alt="Microsoft Excel">
-  </a>
-  <a href="https://www.canva.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/canva.png" width="52px" alt="Canva">
-  </a>
-</span>
-
-
-## Contact Info
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saarib2405/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:saarib2405@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://medium.com/@saarib2405"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://twitter.com/saarib2405" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" title="Twitter" width="96" height="96"></a>
-  <a href="https://linktr.ee/saarib2405" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linktree.png" alt="Linktree" height="65" width="65"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saarib2405" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarib2405" height="30" width="40" /></a>
+<a href="https://kaggle.com/saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saarib2405" height="30" width="40" /></a>
+<a href="https://instagram.com/randomclicks_ssr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randomclicks_ssr" height="30" width="40" /></a>
+<a href="https://medium.com/@saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saarib2405" height="30" width="40" /></a>
 </p>
 
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarib2405&show_icons=true&locale=en&layout=compact" alt="saarib2405" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarib2405&show_icons=true&locale=en" alt="saarib2405" /></p>
