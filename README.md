@@ -14,7 +14,7 @@
 <a href="https://kaggle.com/saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saarib2405" height="30" width="40" /></a>
 <a href="https://instagram.com/randomclicks_ssr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randomclicks_ssr" height="30" width="40" /></a>
 <a href="https://medium.com/@saarib2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saarib2405" height="30" width="40" /></a>
-<a href="https://linktr.ee/saarib2405" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" alt="linktree" height="30" width="40" /></a>
+<a href="https://linktr.ee/saarib2405" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Linktree_logo.svg" alt="linktree" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +45,7 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarib2405&show_icons=true&locale=en&layout=compact" alt="saarib2405" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarib2405&show_icons=true&locale=en" alt="saarib2405" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saarib2405&show_icons=true&locale=en" alt="saarib2405" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saarib2405&show_icons=true&locale=en&layout=compact" alt="saarib2405" width="48%" />
+</div>
