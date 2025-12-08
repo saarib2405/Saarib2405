@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syed Saarib Rasheed</h1>
 <h3 align="center">Data Scientist | ML Practitioner | GenAI Enthusiast | Researcher</h3>
 
-- 🔭 I’m currently working on **LLMs in Mental Health**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning & GenAI.**
+- 🔭 I’m currently working on **Data Science Applications**
+- 🌱 I’m currently learning **Data Science, Applied Stats, Machine Learning, Deep Learning & GenAI.**
 - 👯 I’m looking to collaborate on **ML Research**
 - 💬 Ask me about **Machine Learning and GenAI**
 - 📫 How to reach me **saarib2405@gmail.com**
