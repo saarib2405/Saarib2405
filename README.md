@@ -42,8 +42,3 @@
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a> 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> 
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saarib2405&show_icons=true&locale=en" alt="saarib2405" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saarib2405&show_icons=true&locale=en&layout=compact" alt="saarib2405" width="48%" />
-</div>
