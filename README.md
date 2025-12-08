@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Saarib Rasheed</h1>
-<h3 align="center">Building with AI | ML Practitioner | GenAI Enthusiast | Researcher</h3>
+<h3 align="center">Data Scientist | ML Practitioner | GenAI Enthusiast | Researcher</h3>
 
 - 🔭 I’m currently working on **LLMs in Mental Health**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & GenAI.**
