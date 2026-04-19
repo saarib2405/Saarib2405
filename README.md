@@ -1,57 +1,131 @@
-<h1 align="center">Syed Saarib Rasheed</h1>
-<p align="center">
-  <strong>Graduate Research Assistant @ UTA | Applied Statistics & Data Science</strong><br>
-  <em>Specializing in GenAI Orchestration, Geospatial Analytics, and MLOps</em>
-</p>
+<h1 align="center">Hi 👋, I'm Syed Saarib Rasheed</h1>
+<h3 align="center">Data Scientist | ML Practitioner | GenAI Enthusiast | Researcher</h3>
 
-<p align="center">
-  <a href="mailto:saarib2405@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> • 
-  <a href="https://yourportfolio.com">Portfolio</a>
-</p>
+- 🔭 I'm currently working on **Data Science Applications**
+- 🌱 I'm currently learning **Data Science, Applied Stats, Machine Learning, Deep Learning & GenAI.**
+- 👯 I'm looking to collaborate on **ML Research**
+- 💬 Ask me about **Machine Learning and GenAI**
+- 📫 How to reach me **saarib2405@gmail.com**
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### 🔭 Professional Focus
-- **GenAI & LLMs:** Fine-tuning via **Unsloth/LoRA** and local deployment with **Ollama**.
-- **Data Engineering:** Building robust pipelines for **Arlington Crash Data** and urban analytics.
-- **Automation:** Designing agentic workflows and LLM orchestration using **n8n**.
-- **Research:** Applying **Applied Statistics** to solve complex Civil Engineering and spatial problems.
-
----
-
-### 🛠️ Technical Stack
-
-#### **Intelligence & Orchestration**
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="ollama" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
-</div>
-
-#### **Analysis, Visualization & Apps**
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/streamlitio/streamlitio-icon.svg" alt="streamlit" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-</div>
-
-#### **Infrastructure & Version Control**
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</div>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a><br/>Python
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+      </a><br/>R
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      </a><br/>C
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      </a><br/>C++
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a><br/>Java
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a><br/>HTML5
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a><br/>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      </a><br/>Pandas
+    </td>
+    <td align="center" width="80">
+      <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
+      </a><br/>SciPy
+    </td>
+    <td align="center" width="80">
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo_light.svg" alt="matplotlib" width="40" height="40"/>
+      </a><br/>Matplotlib
+    </td>
+    <td align="center" width="80">
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+      </a><br/>Seaborn
+    </td>
+    <td align="center" width="80">
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+      </a><br/>Scikit-learn
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      </a><br/>TensorFlow
+    </td>
+    <td align="center" width="80">
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+      </a><br/>OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+      </a><br/>HuggingFace
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a><br/>MySQL
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+      </a><br/>Tableau
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
+      </a><br/>Excel
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas" width="40" height="40"/>
+      </a><br/>SAS
+    </td>
+    <td align="center" width="80">
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+      </a><br/>GCP
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      </a><br/>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a><br/>Linux
+    </td>
+  </tr>
+</table>
