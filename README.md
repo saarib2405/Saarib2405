@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Saarib Rasheed</h1>
 <h3 align="center">Data Scientist | ML Practitioner | GenAI Enthusiast | Researcher</h3>
 
-<p align="center">
-  <a href="mailto:saarib2405@gmail.com"><img src="https://img.shields.io/badge/Email-saarib2405@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,7 +57,7 @@
     <td align="center" width="100">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a><br/>SQL (MySQL)
+      </a><br/>MySQL
     </td>
   </tr>
 </table>
@@ -82,7 +78,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
       </a><br/>SciPy
     </td>
     <td align="center" width="100">
