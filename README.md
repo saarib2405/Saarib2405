@@ -221,3 +221,39 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="mailto:saarib2405@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="" width="40" height="40"/>
+      </a><br/>Email
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/saarib2405" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="" width="40" height="40"/>
+      </a><br/>LinkedIn
+    </td>
+    <td align="center" width="100">
+      <a href="https://medium.com/@saarib2405" target="_blank" rel="noreferrer">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/FFFFFF"/><img src="https://cdn.simpleicons.org/medium/000000" alt="" width="40" height="40"/></picture>
+      </a><br/>Medium
+    </td>
+    <td align="center" width="100">
+      <a href="https://x.com/saarib2405" target="_blank" rel="noreferrer">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"/><img src="https://cdn.simpleicons.org/x/000000" alt="" width="40" height="40"/></picture>
+      </a><br/>X
+    </td>
+    <td align="center" width="100">
+      <a href="https://linktr.ee/saarib2405" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/linktree/43E55E" alt="" width="40" height="40"/>
+      </a><br/>Linktree
+    </td>
+  </tr>
+</table>
+</div>
