@@ -141,11 +141,6 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/96/sql.png" alt="SQL" width="40" height="40"/>
-      </a><br/>SQL
-    </td>
-    <td align="center" width="100">
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
       </a><br/>SQLite
