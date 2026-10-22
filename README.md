@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -21,43 +21,23 @@
   <tr>
     <td align="center" width="100">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a><br/>Python
     </td>
     <td align="center" width="100">
       <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
       </a><br/>R
     </td>
     <td align="center" width="100">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       </a><br/>C
     </td>
     <td align="center" width="100">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       </a><br/>C++
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a><br/>Java
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-      </a><br/>HTML5
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-      </a><br/>CSS3
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a><br/>MySQL
     </td>
   </tr>
 </table>
@@ -68,90 +48,85 @@
   <tr>
     <td align="center" width="100">
       <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
       </a><br/>NumPy
     </td>
     <td align="center" width="100">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
       </a><br/>Pandas
     </td>
     <td align="center" width="100">
       <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40"/>
       </a><br/>SciPy
     </td>
     <td align="center" width="100">
       <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
       </a><br/>Matplotlib
     </td>
     <td align="center" width="100">
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
       </a><br/>Seaborn
     </td>
     <td align="center" width="100">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
       </a><br/>Scikit-learn
     </td>
     <td align="center" width="100">
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
       </a><br/>TensorFlow
     </td>
     <td align="center" width="100">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+      </a><br/>PyTorch
+    </td>
+    <td align="center" width="100">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
       </a><br/>OpenCV
     </td>
     <td align="center" width="100">
       <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
       </a><br/>HuggingFace
     </td>
   </tr>
 </table>
 
-### Analytics, Cloud & Automation
+### Analytics & Automation
 
 <table>
   <tr>
     <td align="center" width="100">
       <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/96/power-bi.png" alt="powerbi" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="40" height="40"/>
       </a><br/>Power BI
     </td>
     <td align="center" width="100">
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
       </a><br/>Tableau
     </td>
     <td align="center" width="100">
       <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
       </a><br/>Excel
     </td>
     <td align="center" width="100">
       <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="sas" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="40" height="40"/>
       </a><br/>SAS
     </td>
     <td align="center" width="100">
       <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="databricks" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40"/>
       </a><br/>Databricks
-    </td>
-    <td align="center" width="100">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-      </a><br/>AWS
-    </td>
-    <td align="center" width="100">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-      </a><br/>GCP
     </td>
     <td align="center" width="100">
       <a href="https://n8n.io/" target="_blank" rel="noreferrer">
@@ -161,28 +136,93 @@
   </tr>
 </table>
 
-### Developer Tools
+### Databases
 
 <table>
   <tr>
     <td align="center" width="100">
+      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/96/sql.png" alt="SQL" width="40" height="40"/>
+      </a><br/>SQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+      </a><br/>SQLite
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MS SQL Server" width="40" height="40"/>
+      </a><br/>MS SQL Server
+    </td>
+  </tr>
+</table>
+
+### Cloud & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+      </a><br/>AWS
+    </td>
+    <td align="center" width="100">
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+      </a><br/>GCP
+    </td>
+    <td align="center" width="100">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       </a><br/>Git
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
       </a><br/>Docker
     </td>
     <td align="center" width="100">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
       </a><br/>Linux
     </td>
   </tr>
 </table>
 
----
+### Web Development
 
-<p align="center">⭐ Thanks for stopping by!</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+      </a><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+      </a><br/>CSS3
+    </td>
+    <td align="center" width="100">
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/flask/3BABC3" alt="Flask" width="40" height="40"/>
+      </a><br/>Flask
+    </td>
+    <td align="center" width="100">
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+      </a><br/>FastAPI
+    </td>
+    <td align="center" width="100">
+      <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="40" height="40"/>
+      </a><br/>Streamlit
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.gradio.app/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/gradio/F97316" alt="Gradio" width="40" height="40"/>
+      </a><br/>Gradio
+    </td>
+  </tr>
+</table>
