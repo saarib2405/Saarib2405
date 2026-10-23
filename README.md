@@ -3,20 +3,23 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🔭 Currently working on **Data Science applications**
-- 🌱 Learning **Data Science, Applied Statistics, Machine Learning, Deep Learning & GenAI**
-- 👯 Looking to collaborate on **ML research**
-- 💬 Ask me about **Machine Learning and GenAI**
-- 📫 Reach me at **saarib2405@gmail.com**
+<p align="center">
+  🔭 Currently working on <b>Data Science applications</b><br/>
+  🌱 Learning <b>Data Science, Applied Statistics, Machine Learning, Deep Learning & GenAI</b><br/>
+  👯 Looking to collaborate on <b>ML research</b><br/>
+  💬 Ask me about <b>Machine Learning and GenAI</b><br/>
+  📫 Reach me at <b>saarib2405@gmail.com</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages
+<h3 align="center">Languages</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -41,9 +44,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Data Science & Machine Learning
+<h3 align="center">Data Science & Machine Learning</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -98,9 +103,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Analytics & Automation
+<h3 align="center">Analytics & Automation</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -135,9 +142,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Databases
+<h3 align="center">Databases</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -152,9 +161,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Cloud & DevOps
+<h3 align="center">Cloud & DevOps</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -184,9 +195,11 @@
     </td>
   </tr>
 </table>
+</div>
 
-### Web Development
+<h3 align="center">Web Development</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -221,10 +234,11 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2> <div align="center"> 
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 <table>
