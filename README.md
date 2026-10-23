@@ -258,6 +258,3 @@
 </table>
 </div>
 
----
-
-<p align="center"><sub>Open to ML research collaborations — let's talk.</sub></p>
